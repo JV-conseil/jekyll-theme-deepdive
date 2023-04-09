@@ -1,7 +1,5 @@
 There are two versions of **Hydejack**: The *Free Version* includes basic blogging functionality and most of Hydejack's [Features], such as dynamic page loading and advanced animations.
 
-The *PRO Version* includes additional features for professionals, such as a [portfolio], [resume], [Dark Mode][dark], [Forms], [Built-In Search][search] and customizable cookie banners.
-
 The table below shows what's included in each version:
 
 |                               | Free                | PRO                 |
@@ -22,9 +20,9 @@ The table below shows what's included in each version:
 | No Hydejack Branding          |                     | &#x2714;            |
 | License                       | [GPL-3.0][lic]      | [PRO]               |
 | Source                        | [GitHub][src]       | Included            |
-| __Price__                     | __Free__            | <span class="price"><del>$99</del> <strong class="new-price">$69</strong> <small>One-Time Payment</small></span> [^22] |
+| **Price**                     | **Free**            | <span class="price"><del>$99</del> <strong class="new-price">$69</strong> <small>One-Time Payment</small></span> [^22] |
 |===============================+=====================+=====================|
-|                               | [__Download__][kit] | [__Buy PRO__][buy]{:.gumroad-button data-gumroad-single-product="true"} |
+|                               | [**Download**][kit] | [**Buy PRO**][buy]{:.gumroad-button data-gumroad-single-product="true"} |
 {:.stretch-table.dl-table}
 
 [^21]: Large screens (> 1664px width) only.
