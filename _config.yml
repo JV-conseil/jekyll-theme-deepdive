@@ -14,7 +14,7 @@
 # General settings
 # ---------------------------------------------------------------------------------------
 
-url: https://jv-conseil.github.io/jekyll-theme-deepdive/
+url: https://jv-conseil.github.io
 
 # Language of your content in 2-letter code, e.g.: en, de.
 # You may also provide a location, e.g.: en-us, de_AT.
@@ -316,7 +316,9 @@ plugins:
   - jekyll-avatar
   - jekyll-default-layout
   - jekyll-feed
-  - jekyll-mention
+  - jekyll-include-cache
+  - jekyll-last-modified-at
+  - jekyll-mentions
   - jekyll-optional-front-matter
   - jekyll-paginate
   - jekyll-readme-index
@@ -325,8 +327,6 @@ plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-titles-from-headings
-  - jekyll-include-cache
-  - jekyll-last-modified-at
   - jemoji
 
 # SEO Tag

@@ -41,6 +41,7 @@ group :jekyll_plugins do
   gem "jekyll-avatar", "~> 0.7.0"
   gem "jekyll-default-layout"
   gem "jekyll-feed"
+  gem "jekyll-include-cache"
   gem "jekyll-mentions", "~> 1.6"
   gem "jekyll-optional-front-matter"
   gem "jekyll-paginate"
@@ -50,14 +51,13 @@ group :jekyll_plugins do
   gem "jekyll-seo-tag"
   gem "jekyll-sitemap"
   gem "jekyll-titles-from-headings"
-  gem "jekyll-include-cache"
 
   # Non-Github Pages plugins:
-  gem "jekyll-last-modified-at"
   gem "jekyll-compose"
+  gem "jekyll-last-modified-at"
 
-  gem "jemoji", "~> 0.12.0"
   gem "github-pages", "~> 228"
+  gem "jemoji", "~> 0.12.0"
 end
 
 # Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem
