@@ -80,7 +80,7 @@ gem "http_parser.rb", "~> 0.6.0", :platforms => [:jruby]
 
 # Development
 group :development do
-  gem "faraday-retry", "~> 2.0"
+  gem "faraday-retry", "~> 2.2.0"
   gem "sass", "~> 3.7"
   gem "webrick", "~> 1.8"
 end

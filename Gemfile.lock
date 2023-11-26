@@ -284,7 +284,7 @@ PLATFORMS
 
 DEPENDENCIES
   duktape
-  faraday-retry (~> 2.0)
+  faraday-retry (~> 2.2.0)
   github-pages (~> 228)
   http_parser.rb (~> 0.6.0)
   jekyll (~> 3.9.3)
@@ -314,4 +314,4 @@ DEPENDENCIES
   webrick (~> 1.8)
 
 BUNDLED WITH
-   2.4.10
+   2.4.22
